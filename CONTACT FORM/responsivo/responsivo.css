@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Desktop (Mantém como você deixou ou pode remover se não usar) */
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-img {
+    border-radius: 50%;
+}
+
+
+/** Breakpoints | ponto de quebra do layout **/
+
+/* Tablets < 992px (768px até 991px) */
+@media screen and (max-width: 991px) {
+    
+}
+
+
+/* Smartphones < 768px (0px até 767px) */
+@media screen and (max-width: 767px) {
+    
+    .form-contact__linha {
+        flex-direction: column;
+        margin-bottom: 25px;
+    }
+
+    .form-contact__col-a{
+        width: 100%;
+    }
+    .form-contact__col-b {
+        width: 100%;
+    }
+
+    .form-contact__col-a {
+        margin-bottom: 10px;
+    }
+
+    .form-contact__col-b {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .form-contact__input--metade{
+        width: 100%;
+    }
+    .form-contact__input--terco{
+        width: 100%;
+    }
+    .form-contact__input--quarto{
+        width: 100%;
+    }
+    .form-contact__input--inteiro{
+        width: 100%;
+    }
+    .form-contact__input--anotacoes {
+        width: 100%;
+    }
+
+    .form-contact__label{
+        display: none;
+    }
+}

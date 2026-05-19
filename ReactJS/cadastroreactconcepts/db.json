@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "produtos": "Arroz",
+      "descricao": "otimo produto",
+      "preco": 29.9,
+      "imagem": "https://www.arenaatacado.com.br/on/demandware.static/-/Sites-storefront-catalog-sv/default/dw603bbec5/Produtos/78166-7896006711155-arroz%20tipo%201%20camil%20pacote%205kg-camil-1.jpg",
+      "id": "8bvEhWpLMjY"
+    },
+    {
+      "produtos": "Feijão",
+      "descricao": "bom",
+      "preco": 10.5,
+      "imagem": "https://megag.com.br/v21/wp-content/uploads/2021/08/998.jpg",
+      "id": "ZWBkk49M5gU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

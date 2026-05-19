@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "contatos": [
+    {
+      "id": "1",
+      "name": "Walyson",
+      "sobrenome": "Menezes"
+    },
+    {
+      "id": "2",
+      "name": "Gabriel",
+      "sobrenome": "Figueira"
+    },
+    {
+      "name": "Davi",
+      "sobrenome": "Muniz",
+      "id": "8Gpjder8Irw"
+    },
+    {
+      "name": "Amy",
+      "sobrenome": "Lee",
+      "id": "ecl25Ukq1v0"
+    },
+    {
+      "nome": "Francisco Hugo",
+      "sobrenome": "Ximenes",
+      "id": "JLgBT3tosXw"
+    },
+    {
+      "nome": "Eloysa",
+      "sobrenome": "Marques",
+      "id": "k2e69PijE-M"
+    },
+    {
+      "email": "gabriel@gmail.com",
+      "telefone": "123456789",
+      "DDD": "55",
+      "numero": "123456788",
+      "CEP": "09941445",
+      "Endereco": "Rua Yayá",
+      "numeroEndereco": "12",
+      "Bairro": "Canhema",
+      "Cidade": "Diadema",
+      "nome": "Gabriel",
+      "sobrenome": "Figueira",
+      "id": "iDPNGztzuK8"
+    },
+    {
+      "email": "walyson.m.sousa@aluno.senai.br",
+      "telefone": "123456788",
+      "DDD": "11",
+      "numero": "937396610",
+      "CEP": "04231020",
+      "Endereco": "Rua Monsenhor Pizzaro",
+      "numeroEndereco": "27",
+      "Bairro": "Cidade Nova Heliópolis",
+      "Cidade": "São Paulo",
+      "nome": "Walyson",
+      "sobrenome": "de Sousa",
+      "anotacoes": "Sou legal",
+      "id": "DRrsbDLr8Vc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

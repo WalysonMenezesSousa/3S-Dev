@@ -1,0 +1,149 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "Nome": "Francisco Hugo",
+      "idade": 18,
+      "Email": "Hugo@gmail.com"
+    },
+    {
+      "id": "2",
+      "Nome": "Walyson Menezes",
+      "idade": 17,
+      "Email": "waly@gmail.com"
+    },
+    {
+      "id": "23E-obnqH_w",
+      "Nome": "Gabriel figueira",
+      "idade": 17,
+      "Email": "fifi@gmail.com"
+    },
+    {
+      "id": "7Z0cA-6IVpU",
+      "Nome": "Davi Muniz",
+      "idade": 17,
+      "Email": "Davi@gmail.com"
+    }
+  ],
+  "Posts": [
+    {
+      "id": "1",
+      "texto": "Qualuquer coisa",
+      "imagem": "https://m.media-amazon.com/images/I/61Fd1eEa7OL._SL1087_.jpg",
+      "qtdCurtidas": 0
+    },
+    {
+      "id": "cgNDciEokCE",
+      "texto": "Sempre lindo",
+      "imagem": "https://media.istockphoto.com/id/125141451/pt/foto/caixa-de-%C3%B3culos-estudante-dando-uma-flor.jpg?s=612x612&w=0&k=20&c=OOkqhbdvSnOaouFkqbRDdx-IAspwU9AZc-nVUH3_EPQ=",
+      "qtdCurtidas": 10
+    }
+  ],
+  "frutas": [],
+  "jogos": [],
+  "imc": [
+    {
+      "nome": "Eduardo",
+      "altura": 1.67,
+      "peso": 85,
+      "IMC": 30.477966223242138,
+      "situacao": "Obesidade Grau I",
+      "id": "u_6srUHUALY"
+    },
+    {
+      "nome": "Walyson",
+      "altura": 1.78,
+      "peso": 70,
+      "IMC": 22.093170054286073,
+      "situacao": "Saudável",
+      "id": "IoicShEOS7g"
+    },
+    {
+      "nome": "Paulo Andre",
+      "altura": 1.73,
+      "peso": 60,
+      "IMC": 20.04744562130375,
+      "situacao": "Saudável",
+      "id": "sCF_7_WMXso"
+    },
+    {
+      "nome": "Gabriel Figueira",
+      "altura": 1.8,
+      "peso": 73,
+      "IMC": 22.530864197530864,
+      "situacao": "Saudável",
+      "id": "b1j7ah-lt8c"
+    },
+    {
+      "nome": "Ana",
+      "altura": 1.9,
+      "peso": 80,
+      "IMC": 22.1606648199446,
+      "situacao": "Saudável",
+      "id": "xfMy60oVinA"
+    },
+    {
+      "nome": "Bruno",
+      "altura": 1.83,
+      "peso": 103,
+      "IMC": 30.756367762548894,
+      "situacao": "Obesidade Grau I",
+      "id": "GxVKdKiwqiM"
+    },
+    {
+      "nome": "Cleber",
+      "altura": 1.64,
+      "peso": 93,
+      "IMC": 34.577632361689474,
+      "situacao": "Obesidade Grau I",
+      "id": "kE96vFfxpp0"
+    },
+    {
+      "nome": "Daniel",
+      "altura": 1.6,
+      "peso": 10000,
+      "IMC": 9999999999,
+      "situacao": "Obesidade Grau Especial (considerada infinita)",
+      "id": "iRDFq_vVCUE"
+    },
+    {
+      "nome": "gustavinho",
+      "altura": 1.67,
+      "peso": 67,
+      "IMC": 24.023808670084982,
+      "situacao": "Saudável",
+      "id": "yQBFE8xNEp4"
+    }
+  ],
+  "calculadora": [
+    {
+      "n1": 13,
+      "n2": 14,
+      "op": "soma",
+      "resultado": "27.00",
+      "id": "sxXXaG4jHS0"
+    },
+    {
+      "numero1": 3,
+      "numero2": 2,
+      "operacao": "multiplicacao",
+      "resultado": "6.00",
+      "id": "3UknATZDL10"
+    },
+    {
+      "n1": 1312,
+      "n2": 123,
+      "op": "",
+      "resultado": "Operação Inválida",
+      "id": "FxxvzA9xSVc"
+    },
+    {
+      "n1": 241,
+      "n2": 24124,
+      "op": "multiplicacao",
+      "resultado": "5813884.00",
+      "id": "bHGDiS1ibA0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
